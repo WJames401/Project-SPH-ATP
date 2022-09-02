@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "saleAttrName": "颜色",
+        "saleAttrValueList": [
+            {
+                "id": 11,
+                "isChecked": 1,
+                "saleAttrValueName": "陶瓷黑"
+            },
+            {
+                "id": 12,
+                "isChecked": 0,
+                "saleAttrValueName": "透明"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "saleAttrName": "版本",
+        "saleAttrValueList": [
+            {
+                "id": 13,
+                "isChecked": 0,
+                "saleAttrValueName": "8G+128G"
+            },
+            {
+                "id": 14,
+                "isChecked": 1,
+                "saleAttrValueName": "16G+256G"
+            }
+        ]
+    }
+]
